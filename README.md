@@ -49,3 +49,19 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8BFF,100:FF1E56&height=120&section=footer"/>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafael2808o/Rafael2808o/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafael2808o/Rafael2808o/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rafael2808o/Rafael2808o/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafael2808o/Rafael2808o/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafael2808o/Rafael2808o/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rafael2808o/Rafael2808o/output/pacman-contribution-graph.svg">
+</picture>
+
+###
