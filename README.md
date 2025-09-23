@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=4000&pause=500&color=9B59B6&width=800&lines=Ol%C3%A1,+eu+sou+o+Rafael" alt="Typing SVG" style="margin-top:20px;" />
 </p>
-<p align="center">Desenvolvedor Full Stack | Foco em Back-End | Transformando ideias em soluções escaláveis e elegantes ⚙️</p>
+<p align="center"> <strong>Desenvolvedor Full Stack | Foco em Back-End | Transformando ideias em soluções escaláveis e elegantes ⚙️ </strong></p>
 
 ---
 
