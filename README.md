@@ -13,10 +13,12 @@
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-top: 20px; max-width: 600px; width: 100%;">
+  <h2 style="color: #333; font-size: 28px; margin-bottom: 20px;">🛠 Ferramentas </h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,git,github,vscode" />
 </p>
+</div>
 
 ---
 
@@ -28,7 +30,8 @@
 
 ---
 
-## 📬 Contato
+<div align="center">
+  <h3 style="color:#2650A6;">🌙 Contato</h3> 
 <p align="center">
   <a href="https://github.com/Rafael2808o" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=6C3483" /></a>
   <a href="https://linkedin.com/in/Rafael2808o" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=8E44AD" /></a>
@@ -37,11 +40,17 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
+<h3 align="center"> 💜 Status do Git 💜 </h3>
+<table>
+<tr>
+    <td>
   <img src="https://github-readme-stats.vercel.app/api?username=Rafael2808o&show_icons=true&theme=radical&hide_border=true&bg_color=2C003E&title_color=9B59B6&icon_color=BB8FCE" />
+      </td>
+      <td>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael2808o&layout=compact&theme=radical&hide_border=true&bg_color=2C003E&title_color=9B59B6" />
-</p>
+  </td>
+</tr>   
+</table>
 
 ---
 
