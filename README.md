@@ -34,7 +34,7 @@
 <p align="center">
   <a href="https://github.com/Rafael2808o" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=6C3483" /></a>
 <a href="https://open.spotify.com/user/31eruxn5gm46hni5tq3ub4fgumbm?si=47cd78203ea341cf" target="_blank"><img src="https://img.shields.io/badge/Spotify-8E44AD?style=for-the-badge&logo=spotify&logoColor=white" /></a>
-  <a href="https://instagram.com/Rafael2808o" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=9B59B6" /></a>
+  <a href="https://www.instagram.com/rafael.o08/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=9B59B6" /></a>
 </p>
 
 ---
