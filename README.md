@@ -1,5 +1,4 @@
-
-<p align="center">
+<div style="padding-top:40px;" align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=4000&pause=500&color=9B59B6&width=800&lines=Ol%C3%A1,+eu+sou+o+Rafael" alt="Typing SVG" style="margin-top:20px;" />
 </p>
 <p align="center"> <strong>Desenvolvedor Full Stack | Foco em Back-End | Transformando ideias em soluções escaláveis e elegantes ⚙️ </strong></p>
@@ -31,10 +30,10 @@
 ---
 
 <div align="center">
-  <h3 style="color:#2650A6;">🌙 Contato</h3> 
+  <h3 style="color:#2650A6;">🌑 Contato</h3> 
 <p align="center">
   <a href="https://github.com/Rafael2808o" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=6C3483" /></a>
-  <a href="https://linkedin.com/in/Rafael2808o" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=8E44AD" /></a>
+<a href="https://open.spotify.com/user/seu_usuario" target="_blank"><img src="https://img.shields.io/badge/Spotify-8E44AD?style=for-the-badge&logo=spotify&logoColor=white" /></a>
   <a href="https://instagram.com/Rafael2808o" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=9B59B6" /></a>
 </p>
 
