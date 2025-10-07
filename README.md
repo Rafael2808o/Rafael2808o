@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 Projetos & Experiências
+## 👾 Projetos & Experiências
 - Desenvolvimento de APIs RESTful escaláveis  
 - Integração de bancos de dados SQL e NoSQL  
 - Scripts de automação e back-end otimizado  
